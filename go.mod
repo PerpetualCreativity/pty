@@ -1,4 +1,4 @@
-module github.com/creack/pty
+module github.com/PerpetualCreativity/pty
 
 go 1.13
 
